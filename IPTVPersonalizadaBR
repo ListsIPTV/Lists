@@ -1,19 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Abertos",Globo SP FHD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Abertos",Globo SP FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289881
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Abertos",Globo SP UHD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Abertos",Globo SP UHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289882
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Abertos",Globo SP HD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Abertos",Globo SP HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289883
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | Abertos",TV BRASIL
-https://tvbrasil-stream.ebc.com.br/index.m3u8?ManoTV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | Abertos",Canal Brasil FHD
-http://splaytv.club:80/QDpPshVexC/NO03avcdOMa/147454
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | Abertos",Canal Brasil HD
-http://splaytv.club:80/QDpPshVexC/NO03avcdOMa/147455
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Abertos",Globo SP HD²
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Abertos",Globo SP HD²
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289884
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Abertos",Globo SP SD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Abertos",Globo SP SD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289885
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="FIFA+ HD" tvg-logo="https://play-lh.googleusercontent.com/NcrdWFjmF2GPRlif4xC-9WM4bQXxHjU4yuWVQjsdDh7xtKPc6nVSRhp-iOlFnpuepg" group-title="Canais | Pay-per-view",FIFA+ HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250892
@@ -119,10 +113,6 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118705
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/557
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 3 HD²
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/558
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 3 SD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/556
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 SD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 3 SD²
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118706
 #EXTINF:-1 tvg-id="DAZN.br" tvg-name="Canal Goat 1 FHD" tvg-logo="https://canalgoat.com.br/img/logo-composite.png" group-title="Canais | Pay-per-view",Canal Goat 1 FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/274647
 #EXTINF:-1 tvg-id="DAZN.br" tvg-name="Canal Goat 2 FHD" tvg-logo="https://canalgoat.com.br/img/logo-composite.png" group-title="Canais | Pay-per-view",Canal Goat 2 FHD
@@ -142,13 +132,6 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/264555
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Novelas  HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT Novelas  HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/264556
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Novelas  SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT Novelas  SD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/264557
-#EXTINF:-1 tvg-id="CazeTV.br" tvg-name="Furacao Live FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDEFURACAO.png" group-title="Canais | Pay-per-view",Furacao Live FHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/254096
-#EXTINF:-1 tvg-id="CazeTV.br" tvg-name="Furacao Live UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDEFURACAO.png" group-title="Canais | Pay-per-view",Furacao Live UHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/254097
-#EXTINF:-1 tvg-id="CazeTV.br" tvg-name="Furacao Live HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDEFURACAO.png" group-title="Canais | Pay-per-view",Furacao Live HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/254098
 #EXTINF:-1 tvg-id="CazeTV.br" tvg-name="Furacão Brasileirão HD [Casimito]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDEFURACAO.png" group-title="Canais | Pay-per-view",Furacão Brasileirão HD [Casimito]
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/254099
 #EXTINF:-1 tvg-id="CazeTV.br" tvg-name="CazeTV SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV SD
@@ -157,10 +140,6 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/254104
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/254102
 #EXTINF:-1 tvg-id="CazeTV.br" tvg-name="CazeTV UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV UHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/254103
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="BJJ STARS UHD" tvg-logo="https://yt3.googleusercontent.com/5qffzzZVV45NzgJ_wu-xlvXN-BSHWKW15goDi1QJcVIna8Seu-9PMGWOBCLuz6QAlZE0byNrMw=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | Pay-per-view",BJJ STARS UHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250890
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Kingpyn Boxing FHD" tvg-logo="https://pbs.twimg.com/media/FrcKkJ7WAAA6-Er.jpg" group-title="Canais | Pay-per-view",Kingpyn Boxing FHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250915
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/666
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E UHD
@@ -257,6 +236,14 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2462
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/146
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="Canais | Filmes & Series",Canal Brasil HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/145
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANALDOBOI.png" group-title="Canais |  Abertos",Canal do Boi SD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/141
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO VOLEI 01" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANALVOLEIBRASIL.png" group-title="Canais | Pay-per-view",CANAL DO VOLEI 01
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18289
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO VOLEI 02" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANALVOLEIBRASIL.png" group-title="Canais | Pay-per-view",CANAL DO VOLEI 02
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18288
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO VOLEI 03" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANALVOLEIBRASIL.png" group-title="Canais | Pay-per-view",CANAL DO VOLEI 03
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18287
 #EXTINF:-1 tvg-id="Canalrural.br" tvg-name="Canal Rural SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANALRURAL.png" group-title="Canais |  Abertos",Canal Rural SD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/84038
 #EXTINF:-1 tvg-id="Canalrural.br" tvg-name="Canal Rural HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANALRURAL.png" group-title="Canais |  Abertos",Canal Rural HD
@@ -321,16 +308,6 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/239
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/237
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate SD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate SD²
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118760
-#EXTINF:-1 tvg-id="UFCFightPass.br" tvg-name="UFC Fight Pass HD J	" tvg-logo="http://app.tvdigital.link:2095/logoscanais/UFCFIGHTPASS.png" group-title="Canais | Esportes",UFC Fight Pass HD J	
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250107
-#EXTINF:-1 tvg-id="UFCFightPass.br" tvg-name="UFC Fight Pass 2 Z HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/UFCFIGHTPASS.png" group-title="Canais | Esportes",UFC Fight Pass 2 Z HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250108
-#EXTINF:-1 tvg-id="UFCFightPass.br" tvg-name="UFC Fight Pass 1 Z HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/UFCFIGHTPASS.png" group-title="Canais | Esportes",UFC Fight Pass 1 Z HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250110
-#EXTINF:-1 tvg-id="UFCFightPass.br" tvg-name="UFC Fight Pass HD E" tvg-logo="http://app.tvdigital.link:2095/logoscanais/UFCFIGHTPASS.png" group-title="Canais | Esportes",UFC Fight Pass HD E
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250111
-#EXTINF:-1 tvg-id="UFCFightPass.br" tvg-name="UFC Fight Pass FHD L" tvg-logo="http://app.tvdigital.link:2095/logoscanais/UFCFIGHTPASS.png" group-title="Canais | Esportes",UFC Fight Pass FHD L
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250112
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMEDYCENTRAL.png" group-title="Canais | Filmes & Series",Comedy Central FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/687
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMEDYCENTRAL.png" group-title="Canais | Filmes & Series",Comedy Central UHD
@@ -363,65 +340,65 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2610
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2611
 #EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! SD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2609
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Discovery Channel FHD
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Discovery Channel FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2577
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Discovery Channel UHD
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Discovery Channel UHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21338
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Discovery Channel HD
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Discovery Channel HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2575
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Discovery Channel HD²
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Discovery Channel HD²
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2576
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Discovery Channel SD
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Discovery Channel SD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2574
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home &  Health FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Discovery Home &  Health FHD
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Disc. Home &  Health FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Discovery Home &  Health FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2572
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home &  Health UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Discovery Home &  Health UHD
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Disc. Home &  Health UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Discovery Home &  Health UHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21295
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home &  Health HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Discovery Home &  Health HD
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Disc. Home &  Health HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Discovery Home &  Health HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2570
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home &  Health HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Discovery Home &  Health HD²
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Disc. Home &  Health HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Discovery Home &  Health HD²
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2571
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home &  Health SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Discovery Home &  Health SD
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Disc. Home &  Health SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Discovery Home &  Health SD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2569
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Discovery Science FHD
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Disc. Science FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Discovery Science FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2582
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Discovery Science UHD
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Disc. Science UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Discovery Science UHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21297
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Discovery Science HD
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Disc. Science HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Discovery Science HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2580
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Discovery Science HD²
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Disc. Science HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Discovery Science HD²
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2581
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Discovery Science SD
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Disc. Science SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Discovery Science SD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2579
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Discovery Theater FHD
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Disc. Theater FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Discovery Theater FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2587
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Discovery Theater UHD
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Disc. Theater UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Discovery Theater UHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21298
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Discovery Theater HD
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Disc. Theater HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Discovery Theater HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2585
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Discovery Theater HD²
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Disc. Theater HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Discovery Theater HD²
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2586
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Discovery Theater SD
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Disc. Theater SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Discovery Theater SD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2584
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Discovery Turbo FHD
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Disc. Turbo FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Discovery Turbo FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2592
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Discovery Turbo UHD
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Disc. Turbo UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Discovery Turbo UHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21299
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Discovery Turbo HD
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Disc. Turbo HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Discovery Turbo HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2590
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Discovery Turbo HD²
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Disc. Turbo HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Discovery Turbo HD²
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2591
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Discovery Turbo SD
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Disc. Turbo SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Discovery Turbo SD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2589
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Discovery World FHD
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Disc. World FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Discovery World FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2597
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Discovery World UHD
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Disc. World UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Discovery World UHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21300
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Discovery World HD
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Disc. World HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Discovery World HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2595
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Discovery World HD²
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Disc. World HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Discovery World HD²
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2596
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Discovery World SD
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Disc. World SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Discovery World SD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2594
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYKIDS.png" group-title="Canais | Infantil",Discovery Kids FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/364
@@ -445,10 +422,6 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2471
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2470
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/E!.png" group-title="Canais |  Variedades ",E! UHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21313
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="ES: EUROSPORT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTOVpplN3FpfmpZKXA-JCAgTGUSCQWxKhVldTJTvrCvr-GSn531X57GjwINpx5PsmXivw&usqp=CAU" group-title="Canais | Sport World",ES: EUROSPORT 1
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18021
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="ES: EUROSPORT 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTOVpplN3FpfmpZKXA-JCAgTGUSCQWxKhVldTJTvrCvr-GSn531X57GjwINpx5PsmXivw&usqp=CAU" group-title="Canais | Sport World",ES: EUROSPORT 2
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18022
 #EXTINF:-1 tvg-id="Estadio.br" tvg-name="Estadio TNT Sports 01 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESTADIOTNTSPORTS.png" group-title="Canais | Estadio TNT Sports",Estadio TNT Sports 01 HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18592
 #EXTINF:-1 tvg-id="Estadio.br" tvg-name="Estadio TNT Sports 01²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESTADIOTNTSPORTS.png" group-title="Canais | Estadio TNT Sports",Estadio TNT Sports 01²
@@ -479,8 +452,6 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18590
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18591
 #EXTINF:-1 tvg-id="Fashiontv.br" tvg-name="Fashion TV FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FASHIONTV.png" group-title="Canais |  Variedades ",Fashion TV FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2476
-#EXTINF:-1 tvg-id="NFLGamePass.br" tvg-name="PT -NFL Network HD" tvg-logo="https://www.logolynx.com/images/logolynx/3f/3f73be391f4b8876b4f05e5b95dbadba.png" group-title="Canais | Portugal",PT -NFL Network HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2475
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FISHTV.png" group-title="Canais | Esportes",Fish TV FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/249
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FISHTV.png" group-title="Canais | Esportes",Fish TV UHD
@@ -523,48 +494,24 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/592
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/593
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX SD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/591
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Abertos",Globo RJ FHD
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Abertos",Globo RJ FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2376
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Abertos",Globo RJ UHD
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Abertos",Globo RJ UHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21319
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Abertos",Globo RJ HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2374
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Abertos",Globo RJ HD²
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2375
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Abertos",Globo RJ SD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2373
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV Campinas FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Abertos",Globo EPTV Campinas FHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2389
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo EPTV Campinas UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Abertos",Globo EPTV Campinas UHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21340
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV Ribeirão Preto FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Abertos",Globo EPTV Ribeirão Preto FHD
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV Ribeirão Preto FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Abertos",Globo EPTV Ribeirão Preto FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2386
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo EPTV Ribeirão Preto UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Abertos",Globo EPTV Ribeirão Preto UHD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo EPTV Ribeirão Preto UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Abertos",Globo EPTV Ribeirão Preto UHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21344
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV Ribeirão Preto HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Abertos",Globo EPTV Ribeirão Preto HD
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV Ribeirão Preto HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Abertos",Globo EPTV Ribeirão Preto HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2385
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV Ribeirão Preto SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Abertos",Globo EPTV Ribeirão Preto SD
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV Ribeirão Preto SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Abertos",Globo EPTV Ribeirão Preto SD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2384
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV Sul de Minas FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Abertos",Globo EPTV Sul de Minas FHD
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV Sul de Minas FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Abertos",Globo EPTV Sul de Minas FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2383
-#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Abertos",Globo Minas FHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2380
-#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Abertos",Globo Minas UHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21341
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Globo Nordeste FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Abertos",Globo Nordeste FHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2428
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Globo Nordeste HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Abertos",Globo Nordeste HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2427
-#EXTINF:-1 tvg-id="Redeminas.br" tvg-name="Rede Minas FHD" tvg-logo="https://redeminas.tv/wp-content/uploads/2020/09/Destaque-Home_RedeMinas2.png" group-title="Canais |  Abertos",Rede Minas FHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/274516
-#EXTINF:-1 tvg-id="Redeminas.br" tvg-name="Rede Minas HD" tvg-logo="https://redeminas.tv/wp-content/uploads/2020/09/Destaque-Home_RedeMinas2.png" group-title="Canais |  Abertos",Rede Minas HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/274517
-#EXTINF:-1 tvg-id="Redeminas.br" tvg-name="Rede Minas SD" tvg-logo="https://redeminas.tv/wp-content/uploads/2020/09/Destaque-Home_RedeMinas2.png" group-title="Canais |  Abertos",Rede Minas SD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/274518
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Globo Nordeste UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Abertos",Globo Nordeste UHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21342
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Globo Nordeste SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Nordeste SD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2426
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV Sul de Minas HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Abertos",Globo EPTV Sul de Minas HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2382
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV Sul de Minas SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Abertos",Globo EPTV Sul de Minas SD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2381
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/479
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews UHD
@@ -737,6 +684,12 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21252
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2487
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/LIFETIME.png" group-title="Canais |  Variedades ",Lifetime SD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2486
+#EXTINF:-1 tvg-id="" tvg-name="Liga Futsal 1 HD" tvg-logo="https://ligafutsal.com.br/wp-content/uploads/2016/06/logo_LNF_1.png" group-title="Canais | Pay-per-view",Liga Futsal 1 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18301
+#EXTINF:-1 tvg-id="" tvg-name="Liga Futsal 2 HD" tvg-logo="https://ligafutsal.com.br/wp-content/uploads/2016/06/logo_LNF_1.png" group-title="Canais | Pay-per-view",Liga Futsal 2 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18300
+#EXTINF:-1 tvg-id="" tvg-name="Liga Futsal 3 HD" tvg-logo="https://ligafutsal.com.br/wp-content/uploads/2016/06/logo_LNF_1.png" group-title="Canais | Pay-per-view",Liga Futsal 3 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18299
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/692
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix HD
@@ -809,10 +762,6 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21263
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/371
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKELODEON.png" group-title="Canais | Infantil",Nickelodeon SD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/370
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="NL: EUROSPORT 1 HD H265" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTOVpplN3FpfmpZKXA-JCAgTGUSCQWxKhVldTJTvrCvr-GSn531X57GjwINpx5PsmXivw&usqp=CAU" group-title="Canais | Sport World",NL: EUROSPORT 1 HD H265
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18025
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="NL: EUROSPORT 2 H265" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTOVpplN3FpfmpZKXA-JCAgTGUSCQWxKhVldTJTvrCvr-GSn531X57GjwINpx5PsmXivw&usqp=CAU" group-title="Canais | Sport World",NL: EUROSPORT 2 H265
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18026
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD" tvg-logo="https://i.imgur.com/6FAkXm9.png" group-title="Canais | Esportes",OFF FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/253
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF UHD" tvg-logo="https://i.imgur.com/6FAkXm9.png" group-title="Canais | Esportes",OFF UHD
@@ -821,8 +770,6 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21264
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/252
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="https://i.imgur.com/6FAkXm9.png" group-title="Canais | Esportes",OFF SD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/251
-#EXTINF:-1 tvg-id="Rci.br" tvg-name="Pai Eterno FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVPAIETERNO.png" group-title="Canais |  Religiosos",Pai Eterno FHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/206
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Network FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/697
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Network UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network UHD
@@ -833,8 +780,6 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/695
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/696
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Network SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network SD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/694
-#EXTINF:-1 tvg-id="Polishop.br" tvg-name="Polishop TV HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/POLISHOP.png" group-title="Canais |  Variedades ",Polishop TV HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2522
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere Clubes FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/494
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere Clubes FHD²
@@ -917,10 +862,6 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2525
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2523
 #EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="Prime Box Brazil SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PRIMEBOXBRAZIL.png" group-title="Canais |  Variedades ",Prime Box Brazil SD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2524
-#EXTINF:-1 tvg-id="Like.br" tvg-name="PT:EUROSPORT 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTOVpplN3FpfmpZKXA-JCAgTGUSCQWxKhVldTJTvrCvr-GSn531X57GjwINpx5PsmXivw&usqp=CAU" group-title="Canais | Sport World",PT:EUROSPORT 1 HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18017
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT:EUROSPORT 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTOVpplN3FpfmpZKXA-JCAgTGUSCQWxKhVldTJTvrCvr-GSn531X57GjwINpx5PsmXivw&usqp=CAU" group-title="Canais | Sport World",PT:EUROSPORT 2 HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18018
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDNEWS.png" group-title="Canais | Noticias",Record News FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/488
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDNEWS.png" group-title="Canais | Noticias",Record News UHD
@@ -931,14 +872,8 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/486
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/487
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDNEWS.png" group-title="Canais | Noticias",Record News SD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/485
-#EXTINF:-1 tvg-id="Redegospel.br" tvg-name="Rede Gospel SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDEGOSPEL.png" group-title="Canais |  Religiosos",Rede Gospel SD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/193
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDETV!.png" group-title="Canais |  Abertos",Rede TV FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/80170
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDETV!.png" group-title="Canais |  Abertos",Rede TV HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/80172
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDETV!.png" group-title="Canais |  Abertos",Rede TV SD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/80173
 #EXTINF:-1 tvg-id="Space.br" tvg-name="Space FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/707
 #EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space HD
@@ -1111,8 +1046,6 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/175
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/174
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta SP SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVGAZETA.png" group-title="Canais |  Abertos",TV Gazeta SP SD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/173
-#EXTINF:-1 tvg-id="Tvjustica.br" tvg-name="TV Justica SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVJUSTICA.png" group-title="Canais |  Abertos",TV Justica SD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/177
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV Ra Tim Bum FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVRATIMBUM.png" group-title="Canais | Infantil",TV Ra Tim Bum FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/376
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV Ra Tim Bum HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVRATIMBUM.png" group-title="Canais | Infantil",TV Ra Tim Bum HD
@@ -1289,30 +1222,6 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/229989
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/229990
 #EXTINF:-1 tvg-id="" tvg-name="DAZN6" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DAZN.png" group-title="Canais | Pay-per-view",DAZN6
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/229991
-#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 1 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NOSSOFUTEBOL.png" group-title=" Canais | Campeonatos ",Nosso Futebol 1 FHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/230929
-#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 1 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NOSSOFUTEBOL.png" group-title=" Canais | Campeonatos ",Nosso Futebol 1 HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/230930
-#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 1 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NOSSOFUTEBOL.png" group-title=" Canais | Campeonatos ",Nosso Futebol 1 SD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/230931
-#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 2 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NOSSOFUTEBOL.png" group-title=" Canais | Campeonatos ",Nosso Futebol 2 FHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/230932
-#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 2 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NOSSOFUTEBOL.png" group-title=" Canais | Campeonatos ",Nosso Futebol 2 HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/230933
-#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 2 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NOSSOFUTEBOL.png" group-title=" Canais | Campeonatos ",Nosso Futebol 2 SD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/230934
-#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 3 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NOSSOFUTEBOL.png" group-title=" Canais | Campeonatos ",Nosso Futebol 3 FHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/230935
-#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 3 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NOSSOFUTEBOL.png" group-title=" Canais | Campeonatos ",Nosso Futebol 3 HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/230936
-#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 3 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NOSSOFUTEBOL.png" group-title=" Canais | Campeonatos ",Nosso Futebol 3 SD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/230937
-#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 4 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NOSSOFUTEBOL.png" group-title=" Canais | Campeonatos ",Nosso Futebol 4 FHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/230938
-#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 4 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NOSSOFUTEBOL.png" group-title=" Canais | Campeonatos ",Nosso Futebol 4 HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/230939
-#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 4 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NOSSOFUTEBOL.png" group-title=" Canais | Campeonatos ",Nosso Futebol 4 SD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/230940
 #EXTINF:-1 tvg-id="" tvg-name="NSPORTS 1" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NSPORTS.png" group-title="Canais | Pay-per-view",NSPORTS 1
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/231034
 #EXTINF:-1 tvg-id="" tvg-name="NSPORTS 2" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NSPORTS.png" group-title="Canais | Pay-per-view",NSPORTS 2
@@ -1363,52 +1272,54 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232245
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232246
 #EXTINF:-1 tvg-id="" tvg-name="Star + 6 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 6 FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232247
-#EXTINF:-1 tvg-id="CanalGoat.br" tvg-name="GOAT 1 HD" tvg-logo="https://ugc.production.linktr.ee/IMaIVCCMR3KKyTvNKtRs_t8uQ7SGkHxCyH2xB" group-title="Canais | Pay-per-view",GOAT 1 HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/233913
-#EXTINF:-1 tvg-id="CanalGoat.br" tvg-name="GOAT2 HD" tvg-logo="https://ugc.production.linktr.ee/IMaIVCCMR3KKyTvNKtRs_t8uQ7SGkHxCyH2xB" group-title="Canais | Pay-per-view",GOAT2 HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/233914
-#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="Jogos do youtube HD" tvg-logo="https://expertdigital.net/wp-content/uploads/2020/05/Como-obter-mais-visualiza%C3%A7%C3%B5es-no-YouTube.jpg" group-title="Canais | Pay-per-view",Jogos do youtube HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/233916
-#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="OneFootball1 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ONEFOOTBALL.png" group-title="Canais | Pay-per-view",OneFootball1 HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/233917
-#EXTINF:-1 tvg-id="Onefootball.br" tvg-name="OneFootball2 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ONEFOOTBALL.png" group-title="Canais | Pay-per-view",OneFootball2 HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/233918
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RecordTV SP FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="Canais | Abertos",RecordTV SP FHD
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RecordTV SP FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="Canais |  Abertos",RecordTV SP FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244071
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RecordTV SP UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="Canais | Abertos",RecordTV SP UHD
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RecordTV SP UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="Canais |  Abertos",RecordTV SP UHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244073
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RecordSP 4K " tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="Canais | Abertos",RecordSP 4K 
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RecordSP 4K " tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="Canais |  Abertos",RecordSP 4K 
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244074
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RecordTV INTERIOR SP FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="Canais | Abertos",RecordTV INTERIOR SP FHD
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RecordTV INTERIOR SP FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="Canais |  Abertos",RecordTV INTERIOR SP FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244080
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RecordTV INTERIOR SP HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="Canais | Abertos",RecordTV INTERIOR SP HD
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RecordTV INTERIOR SP HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="Canais |  Abertos",RecordTV INTERIOR SP HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244081
+#EXTINF:-1 tvg-id="Recordrio.br" tvg-name="RecordTV RJ INTERIOR FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="Canais |  Abertos",RecordTV RJ INTERIOR FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244096
+#EXTINF:-1 tvg-id="Recordrio.br" tvg-name="RecordTV RJ INTERIOR HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="Canais |  Abertos",RecordTV RJ INTERIOR HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244097
 #EXTINF:-1 tvg-id="Recordsalvador.br" tvg-name="Tv Acritica HD" tvg-logo="https://miro.medium.com/v2/resize:fit:1400/1*XB1B9pmScDpwUsH_hqdbpw.jpeg" group-title="Canais |  Abertos",Tv Acritica HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244119
-#EXTINF:-1 tvg-id="Recorddf.br" tvg-name="TV PAMPA HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="Canais |  Abertos",TV PAMPA HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244139
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | Abertos",SBT SP FHD
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais |  Abertos",SBT SP FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244161
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD " tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | Abertos",SBT SP FHD 
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD " tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais |  Abertos",SBT SP FHD 
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244162
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | Abertos",SBT SP FHD²
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais |  Abertos",SBT SP FHD²
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244163
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | Abertos",SBT SP UHD
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais |  Abertos",SBT SP UHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244164
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP 4K" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | Abertos",SBT SP 4K
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP 4K" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais |  Abertos",SBT SP 4K
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244165
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | Abertos",SBT SP HD²
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais |  Abertos",SBT SP HD²
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244166
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | Abertos",SBT SP HD
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais |  Abertos",SBT SP HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244167
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | Abertos",SBT SP SD
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais |  Abertos",SBT SP SD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244168
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT INTERIOR HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | Abertos",SBT INTERIOR HD
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT INTERIOR HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais |  Abertos",SBT INTERIOR HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244169
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | Abertos",SBT SD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244170
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT DF FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | Abertos",SBT DF FHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244171
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band SP FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title="Canais |  Abertos",Band SP FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/255465
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band SP UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title="Canais |  Abertos",Band SP UHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/255466
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band SP HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title="Canais |  Abertos",Band SP HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/255467
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band SP HD2" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title="Canais |  Abertos",Band SP HD2
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/255468
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band SP SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title="Canais |  Abertos",Band SP SD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/255469
+#EXTINF:-1 tvg-id="RedeFami­lia.br" tvg-name="Rede Familia FHD" tvg-logo="https://www.redefamilia.com.br/wp-content/uploads/2020/04/cropped-cropped-cropped-logo-rede-familia-1-copy.png" group-title="Canais |  Abertos",Rede Familia FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/264927
+#EXTINF:-1 tvg-id="RedeFami­lia.br" tvg-name="Rede Familia HD" tvg-logo="https://www.redefamilia.com.br/wp-content/uploads/2020/04/cropped-cropped-cropped-logo-rede-familia-1-copy.png" group-title="Canais |  Abertos",Rede Familia HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/264928
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDEBRASIL.jpg" group-title="Canais |  Abertos",Rede Brasil HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/46992
 #EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NHKWORLDJAPAN.png" group-title="Canais | Noticias",NHK HD
@@ -1483,24 +1394,6 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/254091
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/254092
 #EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="NBA League Pass 15  HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NBALEAGUEPASS.png" group-title=" Canais | NBA League Pass",NBA League Pass 15  HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/254093
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band SP FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title=" Canais | Abertos",Band SP FHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/255465
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band SP UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title=" Canais | Abertos",Band SP UHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/255466
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band SP HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title=" Canais | Abertos",Band SP HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/255467
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band SP HD2" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title=" Canais | Abertos",Band SP HD2
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/255468
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band SP SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title=" Canais | Abertos",Band SP SD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/255469
-#EXTINF:-1 tvg-id="bandrj.br" tvg-name="Band RJ FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title=" Canais | Abertos",Band RJ FHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/255474
-#EXTINF:-1 tvg-id="bandminas.br" tvg-name="Band MG FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title=" Canais | Abertos",Band MG FHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/255482
-#EXTINF:-1 tvg-id="RedeFami­lia.br" tvg-name="Rede Familia FHD" tvg-logo="https://www.redefamilia.com.br/wp-content/uploads/2020/04/cropped-cropped-cropped-logo-rede-familia-1-copy.png" group-title="Canais |  Abertos",Rede Familia FHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/264927
-#EXTINF:-1 tvg-id="RedeFami­lia.br" tvg-name="Rede Familia HD" tvg-logo="https://www.redefamilia.com.br/wp-content/uploads/2020/04/cropped-cropped-cropped-logo-rede-familia-1-copy.png" group-title="Canais |  Abertos",Rede Familia HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/264928
 #EXTINF:-1 tvg-id="UFCFightPass.br" tvg-name="UFC Fight Pass 2 HD J" tvg-logo="http://app.tvdigital.link:2095/logoscanais/UFCFIGHTPASS.png" group-title="Canais | Esportes",UFC Fight Pass 2 HD J
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/290595
 #EXTINF:-1 tvg-id="UFCFightPass.br" tvg-name="UFC Fight Pass 3 HD J" tvg-logo="http://app.tvdigital.link:2095/logoscanais/UFCFIGHTPASS.png" group-title="Canais | Esportes",UFC Fight Pass 3 HD J
@@ -1549,6 +1442,8 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272680
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272681
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Um Maluco no Pedaço 6" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Um Maluco no Pedaço 6
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272682
+#EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Oh Temp. 7  24h" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANAL-24-HORAS.png" group-title="Canais | Infantil",Yu-Gi-Oh Temp. 7  24h
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/217926
 #EXTINF:-1 tvg-id="" tvg-name="Alexandre Pires e Seu Jorge [Live Irmãos]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Alexandre Pires e Seu Jorge [Live Irmãos]
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271428
 #EXTINF:-1 tvg-id="" tvg-name="Alexandre Pires [Live do Nego Véio]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SHOWS-24-HORAS.png" group-title="Canais | Shows 24H",Alexandre Pires [Live do Nego Véio]
@@ -1689,6 +1584,8 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271607
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271608
 #EXTINF:-1 tvg-id="Anime.br" tvg-name="[24H] Dragon Ball " tvg-logo="http://app.tvdigital.link:2095/logoscanais/DESENHOS-24-HORAS.png" group-title="Canais | Desenhos 24 horas",[24H] Dragon Ball 
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271609
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Xena" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Xena
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272707
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio 01" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Dois Homens e Meio 01
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272711
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio 02" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Dois Homens e Meio 02
@@ -1759,6 +1656,18 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272743
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272744
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Smallville 10" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Canais | Filmes 24 horas",[24H] Smallville 10
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272745
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 1" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DESENHOS-24-HORAS.png" group-title="Canais | Desenhos 24 horas",[24H] Cavaleiros do Zodiaco 1
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272754
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 2" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DESENHOS-24-HORAS.png" group-title="Canais | Desenhos 24 horas",[24H] Cavaleiros do Zodiaco 2
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272755
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 3" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DESENHOS-24-HORAS.png" group-title="Canais | Desenhos 24 horas",[24H] Cavaleiros do Zodiaco 3
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272756
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 4" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DESENHOS-24-HORAS.png" group-title="Canais | Desenhos 24 horas",[24H] Cavaleiros do Zodiaco 4
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272757
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 5" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DESENHOS-24-HORAS.png" group-title="Canais | Desenhos 24 horas",[24H] Cavaleiros do Zodiaco 5
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272758
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 6" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DESENHOS-24-HORAS.png" group-title="Canais | Desenhos 24 horas",[24H] Cavaleiros do Zodiaco 6
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272759
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 01" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DESENHOS-24-HORAS.png" group-title="Canais | Desenhos 24 horas",[24H] Os Simpsons 01
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/272760
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 02" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DESENHOS-24-HORAS.png" group-title="Canais | Desenhos 24 horas",[24H] Os Simpsons 02
